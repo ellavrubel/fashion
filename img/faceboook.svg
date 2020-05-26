@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 22" width="13" height="22">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<path id="faceboook" class="shp0" d="M8.31 5.41L8.31 7.41L11.47 7.41L11.07 11.01L8.31 11.01L8.31 21L3.97 21L3.97 11.01L2 11.01L2 7.41L3.97 7.41L3.97 5.41C3.97 5.41 3.62 1.6 7.13 1.01L11.47 1.01L11.47 4.21L9.5 4.21C9.5 4.21 8.37 4.17 8.31 5.41Z" />
+</svg>
